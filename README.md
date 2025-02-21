@@ -6,6 +6,7 @@ Edge detection plays an important role in computer vision tasks. Deep learning-b
 
 # Preparing Data
 We rely on the links provided in the RCF Repository (many thanks!). The augmented BSDS500, PASCAL VOC, and NYUD datasets can be downloaded using:
+
     wget http://mftp.mmcheng.net/liuyun/rcf/data/HED-BSDS.tar.gz
     wget http://mftp.mmcheng.net/liuyun/rcf/data/PASCAL.tar.gz
     wget http://mftp.mmcheng.net/liuyun/rcf/data/NYUD.tar.gz
